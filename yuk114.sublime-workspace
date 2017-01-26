@@ -1,0 +1,281 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"curent",
+				"currently"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "yuk114.sublime-project",
+			"settings":
+			{
+				"buffer_size": 4,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/kyleyu/projects/yuk114.github.io/README.md",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/flowchart.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/selection/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/selection/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/script.js",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/skip/clothes/gottogo/theend/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/skip/clothes/gottogo/theend/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/outline/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/outline/outline.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/skip/clothes/gottogo/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/skip/clothes/gottogo/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/skip/clothes/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/skip/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/skip/clothes/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/skip/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/iteration_2/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/iteration_2/script.js",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/skip/clothes/gottogo/script.js",
+		"/Users/kyleyu/Sites/yuk114.github.io/iteration_3/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/iteration_3/script.js",
+		"/Users/kyleyu/Sites/yuk114.github.io/iteration_3/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/skip/clothes/script.js",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/sound-mouseover.js",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/morning/up/script.js",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/non-linear-narrative.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/script.js",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/non-linear-narrative",
+		"/Users/kyleyu/Sites/yuk114.github.io/non-linear-narrative/outline.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/iteration_2/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/iteration_1/style.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/iteration_1/script.js",
+		"/Users/kyleyu/Sites/yuk114.github.io/iteration_1/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/rainbow.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/rainbow.css",
+		"/Users/kyleyu/Sites/yuk114.github.io/rainbow test/api.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/rainbow test/rainbow-test.js",
+		"/Users/kyleyu/Sites/yuk114.github.io/rainbow test/test.eslintrc",
+		"/Users/kyleyu/Sites/yuk114.github.io/rainbow test/helper.js",
+		"/Users/kyleyu/Downloads/rainbow-custom.min (1).js",
+		"/Users/kyleyu/Sites/yuk114.github.io/iteration_2/blajh.js",
+		"/Users/kyleyu/Sites/yuk114.github.io/iteration_2/blahj.html",
+		"/Users/kyleyu/Documents/RAINBOW CIRCLES.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/psapt2.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/psapt1",
+		"/Users/kyleyu/Sites/yuk114.github.io/interview/index.html",
+		"/Users/kyleyu/Sites/yuk114.github.io/finalpsa.html",
+		"/Users/kyleyu/Documents/psapt2.html",
+		"/Users/kyleyu/Documents/untitled.html",
+		"/Users/kyleyu/Desktop/psapt1",
+		"/Users/kyleyu/Documents/website psa",
+		"/Users/kyleyu/Documents/Untitled-4.pdf",
+		"/Users/kyleyu/Documents/psapt1",
+		"/Users/kyleyu/Documents/<!DOCTYPE html>",
+		"/Applications/Parsons/index.html",
+		"/Users/kyleyu/stylebase",
+		"/Users/kyleyu/amzainter.html",
+		"/Users/kyleyu/Interview01.html",
+		"/Users/kyleyu/Interview03.html",
+		"/Users/kyleyu/Interview02.html",
+		"/Users/kyleyu/Interview.html",
+		"/Users/kyleyu/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			";\n"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "yuk114.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 4,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"auto_name": "",
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "yuk114.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"untitled"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
