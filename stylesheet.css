@@ -2,13 +2,27 @@ body {
 	background-color:#ffffff;
 }
 
+p#myself {
+  font-size: 60px;
+  font-family: Helvetica;
+  text-align:center;
+}
+p#course {
+  font-size: 60px;
+  font-family: Helvetica;
+  text-align:center;
+}
 p#remixes {
-font-size:20px;
+  font-size: 20px;
+  font-family: Helvetica;
+  text-align:center;
 }
-p#vday span {
-font-size:15px;
+p#vday  {
+  font-size: 20px;
+  font-family: Helvetica;
+  text-align:center;
 }
-}
+
 h1 {
   font-size: 40px;
   font-family: Helvetica;
