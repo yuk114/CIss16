@@ -2,9 +2,15 @@ body {
 	background-color:#ffffff;
 }
 
-p {
+p#remixes {
+font-size:20px;
+}
+p#vday span {
+font-size:15px;
+}
+}
+h1 {
   font-size: 40px;
   font-family: Helvetica;
   text-align:center;
-  margin-left:250px;
 }
