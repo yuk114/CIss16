@@ -1,7 +1,7 @@
 html {
   box-sizing: border-box;
   font-family: "Lucida Sans", sans-serif;
-  background-color: #000000;
+  background-color: #a109eb;
   color: #fff;
 }
 
@@ -39,7 +39,7 @@ html {
 
 header,
 footer{
-    height: 50px;
+    height: 100px;
     content: '';
     margin-bottom: 10px;
     margin-top: 10px;
@@ -49,7 +49,7 @@ footer{
 
 .content,
 aside {
-    height: 600px;
+    height: 500px;
     content: '';
     border: solid 0.1px;
     border-color: #ffffff;
