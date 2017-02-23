@@ -3,52 +3,52 @@ body {
 }
 
 p#myself {
-  font-size: 60px;
-  font-family: Helvetica;
+  font-size: 50px;
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
   text-align:center;
 }
 p#course {
-  font-size: 60px;
-  font-family: Helvetica;
+  font-size: 50px;
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
   text-align:center;
 }
 
 p#studio {
   font-size: 35px;
-  font-family: Helvetica;
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
   text-align:center;
 }
 
 p#lab {
   font-size: 35px;
-  font-family: Helvetica;
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
   text-align:center;
 }
 
 p#remixes {
   font-size: 20px;
-  font-family: Helvetica;
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
   text-align:center;
 }
 p#vday {
   font-size: 20px;
-  font-family: Helvetica;
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
   text-align:center;
 }
 p#readpres {
   font-size: 20px;
-  font-family: Helvetica;
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
   text-align:center;
 }
 
 p#obssessionsdeli {
   font-size: 20px;
-  font-family: Helvetica;
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
   text-align:center;
 }
 
 p#pagelayouts {
   font-size: 20px;
-  font-family: Helvetica;
+  font-family: Lucida Sans Unicode, Lucida Grande, sans-serif;
   text-align:center;
 }
