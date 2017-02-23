@@ -13,13 +13,13 @@ p#course {
   text-align:center;
 }
 
-p#studio{
+p#studio {
     font-size: 35px;
   font-family: Helvetica;
   text-align:center;
 }
 
-p#lab{
+p#lab {
     font-size: 35px;
   font-family: Helvetica;
   text-align:center;
@@ -30,24 +30,24 @@ p#remixes {
   font-family: Helvetica;
   text-align:center;
 }
-p#vday  {
+p#vday {
   font-size: 20px;
   font-family: Helvetica;
   text-align:center;
 }
-p#readpres  {
-  font-size: 20px;
-  font-family: Helvetica;
-  text-align:center;
-}
-
-p#obssessionsdeli  {
+p#readpres {
   font-size: 20px;
   font-family: Helvetica;
   text-align:center;
 }
 
-p#pagelayouts  {
+p#obssessionsdeli {
+  font-size: 20px;
+  font-family: Helvetica;
+  text-align:center;
+}
+
+p#pagelayouts {
   font-size: 20px;
   font-family: Helvetica;
   text-align:center;
