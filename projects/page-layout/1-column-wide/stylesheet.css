@@ -51,6 +51,6 @@ footer{
 aside {
     height: 500px;
     content: '';
-    border: solid 0.1px;
+    border: solid 1px;
     border-color: #ffffff;
 }
