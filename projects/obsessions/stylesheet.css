@@ -8,3 +8,10 @@ p#firstlink{
   text-align:center;
   margin-top:200px;
 }
+
+p#seclink{
+  font-size: 40px;
+  font-family: Helvetica;
+  text-align:center;
+  margin-top:200px;
+}
