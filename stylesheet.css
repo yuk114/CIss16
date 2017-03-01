@@ -52,3 +52,15 @@ p#pagelayouts {
   font-family: Lucida Console, Monaco, monospace;
   text-align:center;
 }
+
+p#cfls {
+  font-size: 20px;
+  font-family: Lucida Console, Monaco, monospace;
+  text-align:center;
+}
+
+p#cfla {
+  font-size: 20px;
+  font-family: Lucida Console, Monaco, monospace;
+  text-align:center;
+}
