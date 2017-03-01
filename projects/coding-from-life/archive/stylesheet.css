@@ -1,0 +1,98 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: #eeeeee;
+  font-family: serif;
+  font-size: 11pt;
+  padding: 0;
+    margin: 0;
+    overflow: auto;
+    font-weight: 100;
+}
+
+
+html, body {
+  height: 100%;
+}
+
+.header {
+  color: black;
+  position: fixed;
+  font-size: 24px;
+  font-weight: 100;
+  width: 100%;
+  border-bottom: 4px solid #cccccc;
+  padding-left: 1.5em;
+  background: #cccccc;
+  z-index: 50;
+}
+
+.header a:hover {
+  background: white;
+}
+
+.main {
+  position: fixed;
+  top: 45%;
+  left: 50%;
+  transform: translate(-50%, -45%);
+}
+
+.canvas {
+  width: 900px;
+  height: 556px;
+  margin: 20px auto;
+  position: relative;
+}
+
+img {
+  width: 100%;
+}
+
+.people {
+  width: 900px;
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  text-align: center;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+}
+
+.active, a:hover {
+  background: yellow;
+}
+
+.nav {
+  height: 100%;
+  position: relative;
+}
+
+.next,
+.prev {
+  top: 0;
+  height: 100%;
+  width: 50%;
+  position: absolute;
+}
+
+.next {
+  right: 0;
+  cursor: e-resize;
+}
+
+.prev {
+  left: 0;
+  cursor: w-resize;
+}
+
+.prev:hover, .next:hover {
+  background: #eeefff;
+}
+
+
