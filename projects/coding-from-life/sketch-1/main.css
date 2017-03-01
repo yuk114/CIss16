@@ -5,9 +5,213 @@ body {
 .frame {
   width: 1000px;
   height: 600px;
-  background: white;
+  background: #e19bc6;
   margin: 30px auto;
   position: relative;
 }
 
 /* Your CSS goes here */
+
+* {
+  box-sizing: border-box;
+}
+
+.canvas {
+  width: 900px;
+  height: 556px;
+  margin: 100px auto;
+  background: #e19bc6;
+  position: relative;;
+}
+
+.vase {
+  position:absolute;
+  opacity:0.7;
+  left:500px;
+  top:200px;
+}
+
+#neck {
+  position:absolute;
+  width: 25px;
+  height: 40px;
+  top:110px;
+  left:52px;
+  background: rgba(255,255,255,1);
+  background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(32%, rgba(126,214,97,1)), color-stop(100%, rgba(44,138,15,1)));
+  background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+}
+
+#shoulder {
+  top:118px;
+  left:15px;
+  position:absolute;
+  width: 100px;
+  height: 100px;
+  background: rgba(255,255,255,1);
+  background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(32%, rgba(126,214,97,1)), color-stop(100%, rgba(44,138,15,1)));
+  background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  -webkit-clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+  clip-path: polygon(50% 0%, 0% 100%, 100% 100%);
+}
+
+#bowl {
+  top:180px;
+  left:5px;
+  position:absolute;
+  display:block;
+  width: 120px;
+  height: 140px;
+  background: rgba(255,255,255,1);
+  background: -moz-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  background: -webkit-gradient(left top, right top, color-stop(0%, rgba(255,255,255,1)), color-stop(32%, rgba(255,255,255,1)), color-stop(100%, rgba(255,255,255,1)));
+  background: -webkit-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(126,214,97,1) 32%, rgba(255,255,255,1) 100%);
+  background: -o-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  background: -ms-linear-gradient(left, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  background: linear-gradient(to right, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 32%, rgba(255,255,255,1) 100%);
+  border-radius:         50%  50%  50%  50%  / 60%   60%   40%  40%;
+}
+
+#bottom {
+  position:absolute;
+  width: 50px;
+  height: 10px;
+  top:313px;
+  left:40px;
+  background: rgba(255,255,255,1);
+}
+
+.stem {
+  position:absolute;
+  width:8px;
+  height: 320px;
+  top:190px;
+  left:559px;
+  background: rgba(255,132,0,1);
+  background: -moz-linear-gradient(top, rgba(255,132,0,1) 0%, rgba(176,212,97,1) 11%, rgba(176,212,97,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,132,0,1)), color-stop(11%, rgba(176,212,97,1)), color-stop(100%, rgba(176,212,97,1)));
+  background: -webkit-linear-gradient(top, rgba(255,132,0,1) 0%, rgba(176,212,97,1) 11%, rgba(176,212,97,1) 100%);
+  background: -o-linear-gradient(top, rgba(255,132,0,1) 0%, rgba(176,212,97,1) 11%, rgba(176,212,97,1) 100%);
+  background: -ms-linear-gradient(top, rgba(255,132,0,1) 0%, rgba(176,212,97,1) 11%, rgba(176,212,97,1) 100%);
+  background: linear-gradient(to bottom, rgba(255,132,0,1) 0%, rgba(176,212,97,1) 11%, rgba(176,212,97,1) 100%);
+  transform: rotate(-6deg);
+}
+
+.stem3 {
+  position:absolute;
+  width:8px;
+  height: 50px;
+  top:125px;
+  left:535px;
+  background: #9763f7;
+  transform: rotate(-8deg);
+}
+
+#petal1 {
+  position:absolute;
+  left:470px;
+  top:160px;
+  transform: skewY(25deg);
+  width: 0;
+  height: 0;
+  border-top: 20px solid #9763f7;
+  border-left: 80px solid transparent;
+}
+
+#petal2 {
+  position:absolute;
+  left:540px;
+  top:140px;
+  transform: skewY(-25deg) rotate(-30deg);
+  width: 0;
+  height: 0;
+  border-top: 20px solid #9763f7;
+  border-right: 60px solid transparent;
+}
+
+#petal3 {
+  position:absolute;
+  left:490px;
+  top:130px;
+  transform: skewY(25deg);
+  width: 0;
+  height: 0;
+  border-top: 20px solid #9763f7;
+  border-left: 50px solid transparent;
+}
+
+#petal4 {
+  position:absolute;
+  left:535px;
+  top:110px;
+  transform: skewY(-25deg) rotate(-30deg);
+  width: 0;
+  height: 0;
+  border-top: 20px solid #9763f7;
+  border-right: 45px solid transparent;
+}
+
+#petal5 {
+  position:absolute;
+  left:520px;
+  top:90px;
+  width: 0;
+  height: 0;
+  border-left: 8px solid transparent;
+  border-right: 10px solid transparent;
+  border-bottom: 48px solid #9763f7;
+  transform: rotate(-25deg);
+}
+
+#ballbottom {
+  position:absolute;
+  left:240px;
+  top:500px;
+  width: 210px;
+  height: 30px;
+  background: rgba(122,254,232,1);
+}
+
+#ballbottom2 {
+  position:absolute;
+  left:240px;
+  top:460px;
+  width: 160px;
+  height: 40px;
+  background: rgba(59,195,224,1);
+}
+
+#ballbottom3 {
+  position:absolute;
+  left:240px;
+  top:440px;
+  width: 100px;
+  height: 20px;
+  background: rgba(255,255,240,1);
+}
+
+
+.matt {
+  position:absolute;
+  left:150px;
+  top:346px;
+  width: 560px;
+  height: 210px;
+  background: rgba(255,0,132,1);
+  background: -moz-linear-gradient(top, rgba(192,192,192,1) 0%, rgba(255,148,196,1) 100%);
+  background: -webkit-gradient(left top, left bottom, color-stop(0%, rgba(255,0,132,1)), color-stop(100%, rgba(255,148,196,1)));
+  background: -webkit-linear-gradient(top, rgba(255,0,132,1) 0%, rgba(255,148,196,1) 100%);
+  background: -o-linear-gradient(top, rgba(255,0,132,1) 0%, rgba(255,148,196,1) 100%);
+  background: -ms-linear-gradient(top, rgba(255,0,132,1) 0%, rgba(255,148,196,1) 100%);
+  background: linear-gradient(to bottom, rgba(255,0,132,1) 0%, rgba(255,148,196,1) 100%);
+  -webkit-clip-path: polygon(15% 79%, 86% 79%, 100% 100%, 0% 100%);
+  clip-path: polygon(15% 79%, 86% 79%, 100% 100%, 0% 100%);
+}
