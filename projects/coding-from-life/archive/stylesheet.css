@@ -3,29 +3,27 @@
 }
 
 body {
-  background: #eeeeee;
-  font-family: serif;
+  background: #ffffff;
+  font-family: Lucida Console, Monaco, monospace;
   font-size: 11pt;
   padding: 0;
-    margin: 0;
-    overflow: auto;
-    font-weight: 100;
+  margin: 0;
+  overflow: auto;
+  font-weight: 100;
 }
-
 
 html, body {
   height: 100%;
 }
 
 .header {
-  color: black;
+  text-align: center;
   position: fixed;
   font-size: 24px;
   font-weight: 100;
   width: 100%;
-  border-bottom: 4px solid #cccccc;
   padding-left: 1.5em;
-  background: #cccccc;
+  background: #ffffff;
   z-index: 50;
 }
 
@@ -44,7 +42,7 @@ html, body {
   width: 900px;
   height: 556px;
   margin: 20px auto;
-  position: relative;
+  position: center;
 }
 
 img {
@@ -62,10 +60,6 @@ img {
 a {
   text-decoration: none;
   color: black;
-}
-
-.active, a:hover {
-  background: yellow;
 }
 
 .nav {
@@ -92,7 +86,7 @@ a {
 }
 
 .prev:hover, .next:hover {
-  background: #eeefff;
+  background: #ffffff;
 }
 
 
