@@ -1,6 +1,7 @@
 body {
   background-color:#000000;
-  font-color:#ffffff;
+  color:#ffffff;
+  font-family: "Lucida Console", Monaco, monospace;
 }
 
 * {
@@ -48,11 +49,16 @@ a:hover, a:active {
   transition: .3s background-color;
 }
 
-img {
-  -webkit-filter: grayscale(1);
-  filter: grayscale(1);
+.about1 {
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 280px;
 }
 
-.placement-one {
-  padding:50px;
+.about2 {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-indent: 50px;
 }
+
+

@@ -1,6 +1,12 @@
 body {
   background-color:#000000;
-  font-color:#ffffff;
+  color:#ffffff;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+p {
+  margin-right: 50px;
+  margin-left: 50px;
 }
 
 * {
@@ -51,8 +57,7 @@ a:hover, a:active {
 img {
   -webkit-filter: grayscale(1);
   filter: grayscale(1);
-}
-
-.placement-one {
-  padding:50px;
+  margin: auto;
+  margin-top: 50px;
+  width: 50%;
 }
