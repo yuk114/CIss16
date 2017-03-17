@@ -1,0 +1,118 @@
+body {
+  background-color:#000000;
+  color:#ffffff;
+  font-family: "Lucida Console", Monaco, monospace;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+a:visited {
+  text-decoration: none;
+  color:white;
+  display: inline;
+}
+
+a:hover {
+  text-decoration: none;
+  color:blue;
+}
+
+a:focus {
+  text-decoration: none;
+  color:white;
+}
+
+a:hover, a:active {
+  text-decoration: none;
+  color:white
+}
+
+.nav ul {
+  list-style: none;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
+.nav li {
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 1.2em;
+  display: inline-block;
+  margin-right: -4px;
+  }
+
+.nav a {
+  text-decoration: none;
+  color: #fff;
+  display: block;
+  transition: .3s background-color;
+}
+
+img {
+  -webkit-filter: grayscale(1);
+  filter: grayscale(1);
+  margin: auto;
+  margin-top: 50px;
+  width: 50%;
+}
+
+.about1 {
+  margin-left: 400px;
+  margin-right: 400px;
+  margin-top: 60px;
+}
+
+.about2 {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-indent: 50px;
+}
+
+.about3 {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-indent: 50px;
+}
+
+.about4 {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-indent: 50px;
+}
+
+.about5 {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-indent: 50px;
+}
+
+.about6 {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-indent: 50px;
+}
+
+.about7 {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-indent: 50px;
+}
+
+.about8 {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-indent: 50px;
+}
+
+.about9 {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-indent: 50px;
+}
+
+.about10 {
+  margin-left: 400px;
+  margin-right: 400px;
+  text-indent: 50px;
+}

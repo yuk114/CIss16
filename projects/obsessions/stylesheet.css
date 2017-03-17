@@ -15,3 +15,10 @@ p#seclink{
   text-align:center;
   margin-top:200px;
 }
+
+p#thirdlink{
+  font-size: 40px;
+  font-family: Helvetica;
+  text-align:center;
+  margin-top:200px;
+}
