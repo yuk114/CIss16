@@ -1,0 +1,55 @@
+body{
+  background-color:#ffffff;
+}
+
+header{
+  text-align:center;
+}
+
+#draggable {
+  padding: 0.5em;
+}
+
+img{
+  width:50%;
+}
+
+.outer-container {
+  padding: 20px;
+}
+
+.column-wrapper {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+}
+
+.column {
+  width: 50%;
+  height: 100%;
+  top: 0;
+  position: fixed;
+}
+
+.column-left {
+  left: 0;
+  border-right: 2px solid black;
+  /*overflow: scroll;*/
+}
+
+.column-right {
+  right: 0;
+}
+
+.column-left-content {
+  background: white;
+  height: 2000px;
+}
+
+.ui-sortable-helper {
+  /*position: fixed !important;*/
+}
