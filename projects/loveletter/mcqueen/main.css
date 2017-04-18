@@ -1,0 +1,66 @@
+body {
+  background-color:#000000;
+}
+
+.video-container {
+  position: relative;
+}
+
+video {
+  height: 100%;
+  width: 100%;
+}
+
+.overlay-desc {
+  background: rgba(0,0,0,0);
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  display: flex;
+  margin-right: 1000px;
+  font-size:12px
+}
+
+.overlay-desc2 {
+  background: rgba(0,0,0,0);
+  position: absolute;
+  top: 50px;
+  right: 0px;
+  bottom: 0px;
+  left: 400px;
+  display: flex;
+}
+
+.overlay-desc3 {
+  background: rgba(0,0,0,0);
+  position: absolute;
+  top: 0; right: 0; bottom: 0; left: 0;
+  display: flex;
+  margin-right: 1000px;
+}
+
+p {
+  color: white;
+  font-family: "Lucida Console", Monaco, monospace;
+  font-size: 12;
+}
+
+.ui-sortable-helper {
+  /*position: fixed !important;*/
+}
+
+
+.draggable{
+background-color:transparent;
+}
+
+.dragContainer {
+  position:relative;
+    height:relative;
+    width:relative;
+}
+
+#container{
+    margin-top:relative;
+    margin-left:relative;
+}
+
