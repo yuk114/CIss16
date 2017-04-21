@@ -127,3 +127,30 @@ img {
   margin-right: 400px;
   text-indent: 50px;
 }
+
+.nav {
+  height: 100%;
+  position: relative;
+}
+
+.next,
+.prev {
+  top: 0;
+  height: 100%;
+  width: 50%;
+  position: absolute;
+}
+
+.next {
+  right: 0;
+  cursor: e-resize;
+}
+
+.prev {
+  left: 0;
+  cursor: w-resize;
+}
+
+.prev:hover, .next:hover {
+  background: #ffffff;
+}
