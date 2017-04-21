@@ -10,22 +10,18 @@ body {
   text-align:left;
 }
 
-/* unvisited link */
 a:link {
     color: white;
 }
 
-/* visited link */
 a:visited {
     color: white;
 }
 
-/* mouse over link */
 a:hover {
     color: white;
 }
 
-/* selected link */
 a:active {
     color: white;
 }
@@ -67,7 +63,6 @@ a:active {
     color: black;
 }
 
-/* Add a color to the active/current link */
 .topnav a.active {
     background-color: #4CAF50;
     color: white;
