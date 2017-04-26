@@ -1,3 +1,7 @@
 $(function() {
-  // Your interactions go here
+    $("div").click(function(){
+        $('.sea').animate({
+                'marginLeft' : "+=40%" //moves right
+        });
+    });
 });
